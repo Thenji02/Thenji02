@@ -1,16 +1,18 @@
 ## Hi there, I'm Thenjiswa Zulu 👋
-I'm a motivated graduate with a solid foundation in computer systems and programming languages. I'm a fast learner with strong problem-solving skills, a professional attitude, and a proven ability to work effectively in team-based environments
+I'm an aspiring Cybersecurity Analyst with a background in Information Systems & Technology and a growing focus on security monitoring, threat analysis, incident response, and digital forensics.
 
+I enjoy building hands-on cybersecurity projects that strengthen my practical skills and help me understand how to detect, investigate, and respond to security threats. I'm continuously developing my knowledge of tools and technologies such as Linux, Python, Wireshark, OpenSSL, SIEM concepts, and the MITRE ATT&CK framework.
 
-**🌱 Currently learning:** AI, Cybersecurity, Professional development
-
+I'm passionate about learning, solving technical problems, and growing into a cybersecurity professional who can contribute to protecting systems, networks, and data.
 
 **🛠 Tech Stack**
 
-**Languages:**
+**Skills:**
 - Python
 - HTML
 - CSS
+- Linux
+- Wireshark 
 
 **Interests:** 
 - Continuous Learning
@@ -33,6 +35,9 @@ A tool that analyses text to extract sentiment insights. (https://sentiment-insi
 
 **AI ChatBot**
 A health assistant chatbot. (https://medichatv2.lovable.app/)
+
+**Threat Analysis & SOC Investigation**
+A junior SOC analyst walkthrough of a phishing-led credential abuse incident at Ubuntu Digital Services — from alert triage through evidence correlation, ATT&CK mapping and a full remediation plan.
 
 
 
