@@ -37,7 +37,8 @@ A tool that analyses text to extract sentiment insights. (https://sentiment-insi
 A health assistant chatbot. (https://medichatv2.lovable.app/)
 
 **Threat Analysis & SOC Investigation**
-A junior SOC analyst walkthrough of a phishing-led credential abuse incident at Ubuntu Digital Services — from alert triage through evidence correlation, ATT&CK mapping and a full remediation plan.
+A junior SOC analyst walkthrough of a phishing-led credential abuse incident at Ubuntu Digital Services — from alert triage through evidence correlation, ATT&CK mapping and a full remediation plan. [SOC Investigation Case Study | Suspicious Network Activity — UDS](https://ud-investigate-playbook.lovable.app/)
+
 
 
 
