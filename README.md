@@ -11,7 +11,6 @@ I'm passionate about learning, solving technical problems, and growing into a cy
 - Python
 - HTML
 - CSS
-- Linux
 - Wireshark 
 
 **Interests:** 
